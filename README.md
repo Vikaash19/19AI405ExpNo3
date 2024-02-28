@@ -53,10 +53,7 @@ As we can see that every neighbours of node 4 are visited, so move to the next n
 Remove node 4 from the front of queue and visit the unvisited neighbours and push them into queue.
 Now, Queue becomes empty, So, terminate these process of iteration.
 
-
-<hr>
 <h2>Algorithm:</h2>
-<hr>
 <ol>
   <li>Construct a Graph with Nodes and Edges</li>
  <li>Breadth First Uses Queue and iterates through the Queue for Traversal.</li>
