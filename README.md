@@ -125,14 +125,7 @@ tdp=bfs(g,st,vi,p)
 print(tdp)
 ```
 ## Output:
+![Exp 3 BFS](https://github.com/Vikaash19/19AI405ExpNo3/assets/148514589/9f3323b8-7961-45e3-a056-63bf5d1fd8d6)
 
 <h3>Result:</h3>
-<hr>
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
-
-
-
-
-
-
-
